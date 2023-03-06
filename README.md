@@ -1,4 +1,4 @@
-# typescript-challenge
+# TypeScript Challenge
 > TypeScript Challenge  Record
 
 
