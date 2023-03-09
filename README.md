@@ -9,3 +9,4 @@
 
 ### Easy
 - [Generic Pick](https://github.com/type-challenges/type-challenges/issues/24437)
+- 09/03/23 - [Readonly](https://github.com/type-challenges/type-challenges/issues/24720)
