@@ -1,6 +1,7 @@
 # TypeScript Challenge
 > TypeScript Challenge  Record
-
+>
+> [YouTube channel](https://www.youtube.com/@MichiganTypeScript) with explanation of the exercises.
 
 ## [Type<Challenge[]>](https://github.com/type-challenges/type-challenges)
 
