@@ -12,3 +12,4 @@
 - 09/03/23 - 7 - [Readonly](https://github.com/type-challenges/type-challenges/issues/24720)
 - 09/03/23 - 11 - [Tuple to Object](https://github.com/type-challenges/type-challenges/issues/24725)
 - 13/03/23 - 14 - [First of Array](https://github.com/type-challenges/type-challenges/issues/24991)
+- 21/03/23 - 18 - [Length of Tuple](https://github.com/type-challenges/type-challenges/issues/25445)
