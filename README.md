@@ -14,3 +14,4 @@
 - 13/03/23 - 14 - [First of Array](https://github.com/type-challenges/type-challenges/issues/24991)
 - 21/03/23 - 18 - [Length of Tuple](https://github.com/type-challenges/type-challenges/issues/25445)
 - 28/03/23 - 43 - [Exclude](https://github.com/type-challenges/type-challenges/issues/25754)
+- 30/03/23 - 189 - [Awaited](https://github.com/type-challenges/type-challenges/issues/25837)
