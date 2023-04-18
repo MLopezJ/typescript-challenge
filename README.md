@@ -16,3 +16,4 @@
 - 28/03/23 - 43 - [Exclude](https://github.com/type-challenges/type-challenges/issues/25754)
 - 30/03/23 - 189 - [Awaited](https://github.com/type-challenges/type-challenges/issues/25837)
 - 14/04/23 - 268 - [if](https://github.com/type-challenges/type-challenges/issues/26385)
+- 18/04/23 - 533 - [Concat](https://github.com/type-challenges/type-challenges/issues/26565)
