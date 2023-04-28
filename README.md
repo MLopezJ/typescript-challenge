@@ -18,3 +18,4 @@
 - 14/04/23 - 268 - [if](https://github.com/type-challenges/type-challenges/issues/26385)
 - 18/04/23 - 533 - [Concat](https://github.com/type-challenges/type-challenges/issues/26565)
 - 20/04/23 - 898 - [Includes](https://github.com/type-challenges/type-challenges/issues/26646)
+- 28/04/23 - 3057 - [Push](https://github.com/type-challenges/type-challenges/issues/26943)
