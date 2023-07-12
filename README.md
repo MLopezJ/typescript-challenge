@@ -20,3 +20,4 @@
 - 20/04/23 - 898 - [Includes](https://github.com/type-challenges/type-challenges/issues/26646)
 - 28/04/23 - 3057 - [Push](https://github.com/type-challenges/type-challenges/issues/26943)
 - 12/07/23 - 3060 - [Unshift](https://github.com/type-challenges/type-challenges/issues/28829)
+- 12/07/23 - 3312 - [Parameters](https://github.com/type-challenges/type-challenges/issues/28830)
