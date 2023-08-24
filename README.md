@@ -21,3 +21,4 @@
 - 28/04/23 - 3057 - [Push](https://github.com/type-challenges/type-challenges/issues/26943)
 - 12/07/23 - 3060 - [Unshift](https://github.com/type-challenges/type-challenges/issues/28829)
 - 12/07/23 - 3312 - [Parameters](https://github.com/type-challenges/type-challenges/issues/28830)
+- 24/08/23 - 2    - [Get Return Type](https://github.com/type-challenges/type-challenges/issues/29741)
