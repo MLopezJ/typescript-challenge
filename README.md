@@ -24,3 +24,4 @@
 
 ### Medium
 - 24/08/23 - 2    - [Get Return Type](https://github.com/type-challenges/type-challenges/issues/29741)
+- 29/09/23 - 3 - [Omit](https://github.com/type-challenges/type-challenges/issues/30281)
